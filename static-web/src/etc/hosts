@@ -1,0 +1,9 @@
+127.0.0.1	localhost
+
+255.255.255.255	broadcasthost
+::1             localhost
+
+127.0.0.1 site.a.com www.site.a.com
+127.0.0.1 site.b.com www.site.b.com
+127.0.0.1 site.c.com www.site.c.com
+127.0.0.1 site.static.com www.site.static.com
