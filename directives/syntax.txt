@@ -1,0 +1,16 @@
+directive parameters ;
+
+directive block {  }
+
+user             nobody;
+error_log        logs/error.log notice;
+worker_processes 1;
+
+Feature-Specific Configuration Files
+
+/etc/nginx/conf.d
+
+include conf.d/http;
+include conf.d/stream;
+include conf.d/exchange-enhanced;
+

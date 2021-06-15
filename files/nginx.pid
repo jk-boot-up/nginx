@@ -1,0 +1,5 @@
+# master process pid
+
+# /usr/local/nginx/logs/nginx.pid
+
+# /var/run/nginx.pid
